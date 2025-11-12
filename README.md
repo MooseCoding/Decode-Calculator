@@ -34,6 +34,8 @@ Your output should look like this: ![](https://github.com/MooseCoding/23571-Math
 
 So plugin your values for a,b,c for the expression $ax^2 + bx + c = f(x)$, where x is the hood position into [values.py](https://github.com/MooseCoding/23571-Math/blob/main/values.py) Yes your b and c terms may involve y but that is fine. From there make sure that you plugin your start distance (recommended min is 6, which is as close to center as possible) and the end distance (recommended distance is 144 sqrt 2 since thats literally the maximum fire distance). Also specify the step size between the two distances. From there add in your flywheel constraints from earlier leave the (x,x,1000) part the same though. Then run the program and tada your lookup table. 
 
+Your output should look like this: ![](https://github.com/MooseCoding/23571-Math/blob/main/IMG_0443.jpeg)
+
 ## 4. Find Home For Array
 
 Copy and paste into any file of your choice in Java or Kotlin (and just use the auto switch feature). 
