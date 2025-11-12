@@ -12,6 +12,12 @@ Make sure that you have the following installed with Pip:
 pip install numpy scikit-learn matplotlib scipy
 ```
 
+OR 
+
+You can use the Google Colab link and copy it into your drive
+
+[Colab](https://colab.research.google.com/drive/1qrTq7R3H0MQH1yPb6HKURfo0GvzGhuGH?usp=sharing)
+
 ## 1. Manual Data Set
 
 Find 6 common distances that you want to shoot at away from the center of the classifier (which is inside the classifier). My team calculated its about 6 inches inside the classifier from the location of the april tag of the classifier if you want to measure from that. 
