@@ -28,7 +28,7 @@ Record the flywheel power and hood position that you used in order to obtain you
 
 Plug in your data in [regression.py](https://github.com/MooseCoding/23571-Math/blob/main/regression.py) where it says to put in your hood position, flywheel power and your constraints. Then run the program and the resultant graph would look great in a portfolio and the equation it spits out is important. You can change the polynomial degree but the builtin solver I provide in the other [values.py](https://github.com/MooseCoding/23571-Math/blob/main/values.py) only takes in a quadratic expression.
 
-Your output should look like this: ![https://github.com/MooseCoding/23571-Math/blob/main/IMG_0442.jpeg]
+Your output should look like this: !(https://github.com/MooseCoding/23571-Math/blob/main/IMG_0442.jpeg) 
 
 ## 3. Find Values For Distance
 
