@@ -24,7 +24,7 @@ print("\nPolynomial Regression Equation:")
 equation = f"f(x, y) = {intercept:.4f}"
 for term, coef in zip(terms, coefs):
     sign = "+" if coef >= 0 else "-"
-    equation += f" {sign} {abs(coef):.4f}*{term}"
+    equation += f" {sign} {abs(coef):.8f}*{term}"
 print(equation)
 f_pred = model.predict(X_poly)
 r2 = model.score(X_poly, f)
