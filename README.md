@@ -83,5 +83,5 @@ This is using NextFTC Subsystems but you can accomplish very similar things in a
 ## 7. Optional Forms
 
 If you are using this tool this season please take a minute to fill out this survey for me to gather information on users to learn more (and also portfolio bait). It means a lot and even 
-just filling this out does help me. So if you use the tool, I'd advise taking 2 minutes to put down your team number, years of coding experience, coders, and an optional thank you message that will
+just filling this out does help me. So if you use the tool, I'd advise taking 2 minutes to put down your team number, years of coding experience, name, and an optional thank you message that will
 be displayed in my portfolio <3. 
