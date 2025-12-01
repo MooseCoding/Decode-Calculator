@@ -62,6 +62,10 @@ fun lerp(t:Double, low: DoubleArray, high: DoubleArray):DoubleArray
 fun getValues(distance:Double): DoubleArray
 ```
 
+You will not directly interface with lerp unless you want to, I provide you with freedoms! Its called by default by `getValues()` but you can do whatever you want! Also: if the 
+distance makes the array go out of bounds it will return the next closest values. Very useful for slipping odometry however I would always advise about having a manual control if things go awry with 
+position tracking. 
+
 ## 6. Implementation Ideas
 
 Here's my implementation of this
