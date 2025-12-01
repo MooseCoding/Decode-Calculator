@@ -85,3 +85,11 @@ This is using NextFTC Subsystems but you can accomplish very similar things in a
 If you are using this tool this season please take a minute to fill out this survey for me to gather information on users to learn more (and also portfolio bait). It means a lot and even 
 just filling this out does help me. So if you use the tool, I'd advise taking 2 minutes to put down your team number, years of coding experience, name, and an optional thank you message that will
 be displayed in my portfolio <3. 
+
+## 8. Extending this code
+
+Awesumdude is going to use this for airsort adding/subtracting hood position and flywheel power depending on the sorting position. I advised him to do a linearly extrapolation of certain test values that result in the proper sorting technique for certain sample points. 
+
+# Error Reporting
+
+If you encounter any errors, please ping @MooseCoding in any FTC programming server (NextFTC, PSIKit, Dairy, #programming in FTC Discord). I will try to respond within the day, and I'll work through with you any issues you encounter!  
